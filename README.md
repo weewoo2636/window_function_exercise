@@ -1,6 +1,6 @@
 # window_function_exercise
 
-This is a repo to record the result SQL Window Function Exercise from this site: 
+This is a repo to record the result of SQL Window Function Exercise from this site: 
 https://learnsql.com/blog/sql-window-functions-practice-exercises/#exercise-10-look-ahead-with-the-lead-function
 
 ## Note
